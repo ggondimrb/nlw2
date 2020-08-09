@@ -1,0 +1,47 @@
+# nlw2
+Project carried out at RocketSeat's Next Level Week #2. Creation of an app to find developers with technologies in common nearby. Technologies used: React-native React and NodeJs.
+
+Technologies used:
+Node.js
+ReactJS
+React Native
+
+## Installation 
+
+Clone the repository
+
+```git
+git clone https://github.com/ggondimrb/nlw2.git
+```
+
+## Running
+
+-- Initializing  back-end
+
+Inside the backend folder, run
+
+```
+nodemon src/index.js
+```
+
+-- Initializing front-end
+
+Inside the frontend folder, run
+
+```
+npm install or yarn
+
+npm start or yarn start
+```
+#
+
+-- Initializing mobile
+
+Inside the mobile folder, run
+
+```
+npm install or yarn
+
+npm start or yarn start
+```
+
