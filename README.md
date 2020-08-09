@@ -1,5 +1,5 @@
 # nlw2
-Project carried out at RocketSeat's Next Level Week #2. Creation of an app to find developers with technologies in common nearby. Technologies used: React-native React and Node.Js.
+Project carried out at RocketSeat's Next Level Week #2. Creation of an app to find teachers or give classes. Technologies used: React-native React and Node.Js.
 
 Technologies used:
 Node.js
