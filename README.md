@@ -21,7 +21,9 @@ git clone https://github.com/ggondimrb/nlw2.git
 Inside the backend folder, run
 
 ```
-nodemon src/index.js
+npm install or yarn
+
+npm start or yarn start
 ```
 
 -- Initializing front-end
